@@ -15,3 +15,4 @@ This module can run product as shown:
 ''' python
 import algebra
 algebra.operators.product(4,5)
+'''
