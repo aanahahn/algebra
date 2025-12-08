@@ -1,7 +1,7 @@
 Algebra
 =======
 
-This module provides algebraic manipulations tools. (Kaggle Learn Cours - Python)
+This module provides algebraic manipulations tools. (Kaggle Learn Course - Python)
 
 Installation Notes
 ------------------
